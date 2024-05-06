@@ -1,0 +1,196 @@
+.card{
+    background-color: whitesmoke;
+    height: 100%;
+}
+#special{
+    margin-left: 670px;
+}
+.card1{
+    background-color: white;
+    height:300px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.length{
+    margin-bottom: 5px;
+}
+.card0{
+    background-color: white;
+    height:250px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    padding: 20px;
+}
+.set{
+    margin-top: -10px;
+}
+.head{
+    color:#183b56;
+    font-style:bold;
+    font-size:30px;
+}
+.para{
+    color:black;
+    margin-left: 23%;
+    margin-top: 5%;
+    font-size: 17px;
+}
+.hrr{
+    background-color:cornflowerblue;
+    border-width: 5px;
+    width:160px;
+    margin-right: 90%;
+    margin-top: -5px;
+}
+.hrrrr{
+    background-color:cornflowerblue;
+    border-width: 5px;
+    width:110px;
+    margin-right: 90%;
+    margin-top: -5px;
+}
+.image{
+    border-radius: 10px;
+    height:150px;
+    width:130px;
+    margin-left: 80%;
+    margin-top: -130px;
+}
+.headd{
+    color:#183b56;
+    font-style:bold;
+    font-size:30px;
+    margin-left: 20%;
+}
+.card2{
+    background-color: white;
+    height:250px;
+    width:80%;
+}
+.logo{
+    height:150px;
+    width:100px;
+}
+#size{
+    font-size:50px;
+}
+.hrrr{
+    background-color:cornflowerblue;
+    border-width: 5px;
+    width:80px;
+    margin-right: 95%;
+    margin-top: -5px;
+    margin-bottom: 30px;
+}
+.text{
+    margin-top: 5px;
+    color:royalblue;
+    margin-bottom:25px;
+}
+.card3{
+    background-color: white;
+    height:300px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    padding: 20px;
+}
+#sizee{
+    font-size:26px;
+    font-weight:bold;
+    color:#183b56;
+}
+.card01{
+    background-color: white;
+    height:200px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    padding: 20px;
+}
+.card02{
+    background-color: white;
+    height:240px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    padding: 20px;
+}
+.card1:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.card01:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.card02:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.card0:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.card3:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.card5:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.box1:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+}
+.card5{
+    background-color: white;
+    height:380px;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    padding: 20px;
+}
+.card6{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    gap:35px;
+}
+.box1{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 1%;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    cursor:pointer;
+    padding: 25px;
+}
+.boximage{
+    height: 150px;
+    width: 200px;
+    background: cover;
+    border-radius: 2%;
+}
+.check{
+    padding-top: 10px;
+    padding-left: 18px;
+}
+.hi{
+    padding-top: -5px;
+    padding-left: 45px;
+}
